@@ -23,5 +23,5 @@ This repository contains all the resources and data you need to build a powerful
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard](<img width="1081" height="687" alt="screenshot-1752525428143" src="(https://github.com/ranaibrahim4/Construction-Project-Management/blob/main/Overview%20Dashboard.png)" />
+<img width="1254" height="703" alt="Dashboard Overview" src="https://github.com/ranaibrahim4/Construction-Project-Management/blob/main/Overview%20Dashboard.png?raw=true" />
 
