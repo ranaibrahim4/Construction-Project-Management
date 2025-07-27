@@ -20,19 +20,8 @@ This repository contains all the resources and data you need to build a powerful
 - Visualize costs, budgets, timelines, and site progress all in one place.
 - Expert tips on improving dashboard efficiency for large-scale projects.
 
-## 🚀 Who Is This For?
-
-Perfect for construction project managers, analysts, and anyone looking to optimize project timelines and costs using data-driven insights.
-
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard](<img width="1081" height="687" alt="screenshot-1752525428143" src="[https://github.com/user-attachments/assets/a4f63e11-27e5-4b3c-b46d-78e7f5a8f248](https://github.com/ranaibrahim4/Construction-Project-Management/blob/main/Overview%20Dashboard.png)" />
+![Dashboard](<img width="1081" height="687" alt="screenshot-1752525428143" src="(https://github.com/ranaibrahim4/Construction-Project-Management/blob/main/Overview%20Dashboard.png)" />
 
-3. **Import the `Project Management.csv` file.**
-4. **Follow the tutorial (or video) to build your dashboard step-by-step.**
-5. **Customize visuals and metrics as needed for your own projects.**
-
-## 📹 Tutorial
-
-*(Add a link to your video tutorial here if you have one!)* 
