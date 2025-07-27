@@ -24,4 +24,5 @@ This repository contains all the resources and data you need to build a powerful
 ## 🖼️ Dashboard Preview
 
 <img width="1254" height="703" alt="Dashboard Overview" src="https://github.com/ranaibrahim4/Construction-Project-Management/blob/main/Overview%20Dashboard.png?raw=true" />
+<img width="1254" height="703" alt="Task Timeline" src="https://github.com/ranaibrahim4/Construction-Project-Management/blob/main/Task%20Timeline.png?raw=true" />
 
